@@ -1,10 +1,19 @@
 # Supplementary Materials for "Development and Evaluation of a Novel Biomechanics-guided Contrast-enhanced CT Volume Synthesis Model"
 
-This repository contains the supplementary materials for the paper titled **"Development and Evaluation of a Novel Biomechanics-guided Contrast-enhanced CT Volume Synthesis Model"** (currently under review). The data includes CECT scans, deformed models, and trained weights related to the methods presented in the paper. The contents are organized into several folders as outlined below.
+This repository contains the supplementary materials for the paper titled **"Development and Evaluation of a Novel Biomechanics-guided Contrast-enhanced CT Volume Synthesis Model"** (currently under review). The data includes CECT scans, deformed models, and trained weights related to the methods presented in the paper. Some of the larger files could not be uploaded to GitHub due to size limitations and have been made available via Baidu Netdisk.
 
 > **Note:** As this paper is still under review, please ensure that you cite the paper appropriately when using this dataset. Once the paper is accepted and published, we will update the citation details. The citation format is as follows (to be updated upon publication):
 
 > **[Author(s), Year, Title, Journal/Conference, DOI/Link]**
+
+## Dataset Access
+
+### Large Files
+Some of the larger files (e.g., full deformed CECT scans) are hosted on **Baidu Netdisk** due to GitHub's file size limitations. You can download these files using the following links:
+
+- **[Download Link for Large CECT Files](https://pan.baidu.com/s/1FieDHfCaGnI3ps30HQd_IQ)** (Password: `pg9e`)
+
+Please follow the link to download the necessary files.
 
 ## In-HouseLiverCECT
 This folder contains a dataset of 15 annotated porcine abdominal CECT scans, primarily focused on the liver region. These scans have been annotated by experts and stored in `.MCS` format. This data serves as the foundation for liver segmentation research and can be used for the evaluation of image analysis algorithms.
