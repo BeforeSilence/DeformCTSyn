@@ -40,7 +40,11 @@ This section includes two sets of trained model weights used in the research:
 These pre-trained weights can be used to reproduce the results and methods discussed in the paper, as well as for further experimentation with CECT data.
 
 For Yolo11, please refer to https://github.com/ultralytics/ultralytics.
-For VoxelMorph, please refer to https://github.com/zuzhiang/VoxelMorph-torch
+
+
+For VoxelMorph, please refer to https://github.com/zuzhiang/VoxelMorph-torch.
+
+
 For the other dataset used in our paper, please refer to:
 KiPA2022: https://kipa22.grand-challenge.org/
 3Diircab: https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/
