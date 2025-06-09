@@ -11,7 +11,7 @@ This repository contains the supplementary materials for the paper titled **"Dev
 ### Large Files
 Some of the larger files (e.g., full deformed CECT scans) are hosted on **Baidu Netdisk** due to GitHub's file size limitations. You can download these files using the following links:
 
-- **[Download Link for Large CECT Files](https://pan.baidu.com/s/1FieDHfCaGnI3ps30HQd_IQ)** (Password: `pg9e`)
+- **[Download Link for Large Files](https://pan.baidu.com/s/1FieDHfCaGnI3ps30HQd_IQ)** (Password: `pg9e`)
 
 Please follow the link to download the necessary files.
 
