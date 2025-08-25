@@ -53,8 +53,13 @@ KiPA2022: https://kipa22.grand-challenge.org/
 This directory contains GIFs that visually demonstrate the synthesized 3D CECT volumes, including on the liver and kidney CT volumes. The GIFs provides a slice-by-slice view of the synthesized images. These visualizations offer an intuitive understanding of the generated CECT volumes, showcasing their structural and textural consistency.
 
 ## Contents:
+
+
 Liver: Slice-by-Slicevisualization of the liver CT volume.
+
 Kidney: Slice-by-Slice visualization of the kidney CT volume.
+
+Due to the computational cost of generating full voxel volumes at a resolution of 512x512, we applied some downsampling to the images for efficiency.
 
 ## Example GIFs:
 - **Liver CT Volume**  
@@ -62,7 +67,6 @@ Kidney: Slice-by-Slice visualization of the kidney CT volume.
 
 - **Kidney CT Volume**  
   ![Kidney CT Volume](CECTVolumeGIF/Kidney/1_1.gif)
-
 
 
 ## Usage
