@@ -49,6 +49,17 @@ For the other dataset used in our paper, please refer to:
 KiPA2022: https://kipa22.grand-challenge.org/
 3Diircab: https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/
 
+## CECTVolumeGIF
+This directory contains GIFs that visually demonstrate the synthesized 3D CECT volumes, including on the liver and kidney CT volumes. The GIFs provides a slice-by-slice view of the synthesized images. These visualizations offer an intuitive understanding of the generated CECT volumes, showcasing their structural and textural consistency.
+
+## Contents:
+Liver: Slice-by-Slicevisualization of the liver CT volume.
+Kidney: Slice-by-Slice visualization of the kidney CT volume.
+
+## Example GIFs:
+CECTVolumeGIF/Liver/1_1.gif
+CECTVolumeGIF/Kidney/1_1.gif
+
 ## Usage
 To use these datasets and weights, you can download the relevant folder (e.g., "Kidney" or "Liver"). The data can be processed using standard medical image analysis software or custom scripts. The pre-trained weights are ready to be used with deep learning frameworks like PyTorch for object detection and image deformation tasks.
 
