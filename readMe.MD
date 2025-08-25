@@ -57,8 +57,13 @@ Liver: Slice-by-Slicevisualization of the liver CT volume.
 Kidney: Slice-by-Slice visualization of the kidney CT volume.
 
 ## Example GIFs:
-CECTVolumeGIF/Liver/1_1.gif
-CECTVolumeGIF/Kidney/1_1.gif
+- **Liver CT Volume**  
+  ![Liver CT Volume](CECTVolumeGIF/Liver/1_1.gif)
+
+- **Kidney CT Volume**  
+  ![Kidney CT Volume](CECTVolumeGIF/Kidney/1_1.gif)
+
+
 
 ## Usage
 To use these datasets and weights, you can download the relevant folder (e.g., "Kidney" or "Liver"). The data can be processed using standard medical image analysis software or custom scripts. The pre-trained weights are ready to be used with deep learning frameworks like PyTorch for object detection and image deformation tasks.
