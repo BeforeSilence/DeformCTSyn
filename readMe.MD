@@ -1,15 +1,15 @@
 # Supplementary Materials for "Development and Evaluation of a Novel Biomechanics-guided Contrast-enhanced CT Volume Synthesis Model"
 
-This repository contains the supplementary materials for the paper titled **"Development and Evaluation of a Novel Biomechanics-guided Contrast-enhanced CT Volume Synthesis Model"** (currently under review). The data includes CECT scans, deformed models, and trained weights related to the methods presented in the paper. Some of the larger files could not be uploaded to GitHub due to size limitations and have been made available via Baidu Netdisk.
+This repository contains the supplementary materials for the paper titled **"Development and evaluation of a novel organ-specific biomechanics-guided contrast-enhanced CT volume synthesis model"**. The data includes CECT scans, deformed models, and trained weights related to the methods presented in the paper. Some of the larger files could not be uploaded to GitHub due to size limitations and have been made available via Baidu Netdisk.
 
-> **Note:** As this paper is still under review, please ensure that you cite the paper appropriately when using this dataset. Once the paper is accepted and published, we will update the citation details. The citation format is as follows (to be updated upon publication):
+> **Note:** As this paper is accepted by Physics in Medicine & Biology, please ensure that you cite the paper appropriately when using this dataset.:
 
-> **[Author(s), Year, Title, Journal/Conference, DOI/Link]**
+> **Du, S., Shen, M., Liu, Y., Wei, F., & Lei, Y. (2025). Development and evaluation of a novel organ-specific biomechanics-guided contrast-enhanced CT volume synthesis model. Physics in Medicine & Biology. Accepted manuscript online 15 October 2025. https://doi.org/10.1088/1361-6560/ae13ce**
 
 ## Dataset Access
 
 ### Large Files
-Some of the larger files (e.g., full deformed CECT scans) are hosted on **Baidu Netdisk** due to GitHub's file size limitations. You can download these files using the following links:
+Some of the larger files (e.g., full CECT scans) are hosted on **Baidu Netdisk** due to GitHub's file size limitations. You can download these files using the following links:
 
 - **[Download Link for Large Files](https://pan.baidu.com/s/1CO_TV-GiTIlsWyorvfab9g)** (Password: `yvay`)
 
@@ -75,12 +75,12 @@ To use these datasets and weights, you can download the relevant folder (e.g., "
 ## Citation
 Please cite the following paper when using this dataset:
 
-**[Author(s), Year, Title, Journal/Conference, DOI/Link]**
+**Du, S., Shen, M., Liu, Y., Wei, F., & Lei, Y. (2025). Development and evaluation of a novel organ-specific biomechanics-guided contrast-enhanced CT volume synthesis model. Physics in Medicine & Biology. Accepted manuscript online 15 October 2025. https://doi.org/10.1088/1361-6560/ae13ce**
 
 (Note: Citation details will be provided once the paper is accepted and published.)
 
 ## License
-License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+The copyright of the dataset is held by authors. It is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
 
 ## Contact
 If you have any question, please contact at shilundu@zju.edu.cn
